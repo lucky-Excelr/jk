@@ -1,5 +1,7 @@
-Class A{
-public static void main(String[]agrs){
-	system.out.println("hii am bot");
-}
+class HelloWorld {
+
+    public static void main(String args[])
+    {
+        System.out.println("Hello, World");
+    }
 }
